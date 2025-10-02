@@ -1,9 +1,9 @@
 # 🗡️ CS50 — Legend of Zelda  
 
-[![LÖVE2D](https://img.shields.io/badge/Engine-L%C3%96VE2D-informational)](https://love2d.org/)  
-[![Language](https://img.shields.io/badge/Language-Lua-blue)](https://www.lua.org/)  
-[![Course](https://img.shields.io/badge/Course-CS50G-red)](https://cs50.harvard.edu/games/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
+[![LÖVE2D](https://img.shields.io/badge/Engine-L%C3%96VE2D-informational)](https://love2d.org/)
+[![Language](https://img.shields.io/badge/Language-Lua-blue)](https://www.lua.org/)
+[![Course](https://img.shields.io/badge/Course-CS50G-red)](https://cs50.harvard.edu/games/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 **Course:** [CS50's Introduction to Game Development](https://cs50.harvard.edu/games/)  
 **Assignment:** Legend of Zelda  
