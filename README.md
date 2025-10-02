@@ -23,7 +23,7 @@ This repository contains my implementation of the **Legend of Zelda** assignment
 
 ### What I Implemented  
 
-- ✔️ **Heart Drops** — Enemies sometimes drop **hearts** on defeat. Picking one up restores **a full heart (2 HP)** without exceeding the health cap.  
+- ✔️ **Heart Drops** — Enemies sometimes drop **hearts** on defeat. Picking one up restores **a full heart** without exceeding the health cap.  
 - ✔️ **Pot Objects** — Randomly spawned **pots** in the dungeon that the player can:  
   - Pick up (changes animation to carrying state).  
   - Cannot swing a sword while carrying.  
@@ -31,7 +31,7 @@ This repository contains my implementation of the **Legend of Zelda** assignment
   - Player can **throw the pot** in the direction they face.  
   - Pot travels up to **4 tiles** or until it collides with a wall or enemy.  
   - On hitting an enemy → deals **1 damage** and disappears.  
-  - On hitting a wall → disappears (optional shatter animation).  
+  - On hitting a wall → disappears.  
 
 ---
 
@@ -65,7 +65,7 @@ This repository contains my implementation of the **Legend of Zelda** assignment
 - **Arrow Keys (↑ ↓ ← →)** — Move Link.  
 - **Spacebar** — Swing sword (if not carrying a pot).  
 - **Enter/Return** — Pick up pot (when facing one).  
-- **Spacebar (while carrying)** — Throw pot.  
+- **Enter/Return (while carrying)** — Throw pot.  
 - **Escape** — Quit game.  
 
 ---
