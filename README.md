@@ -45,7 +45,7 @@ This repository contains my implementation of the **Legend of Zelda** assignment
 
 1. Install [LÖVE2D](https://love2d.org/).  
 
-2. Download and unzip the CS50 Zelda distro or clone this repository:  
+2. **Clone this repository:**   
 
    ```bash
    git clone https://github.com/huzaifa-gamedev/cs50-legend-of-zelda.git
